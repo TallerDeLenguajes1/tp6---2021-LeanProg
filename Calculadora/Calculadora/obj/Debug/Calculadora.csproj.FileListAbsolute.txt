@@ -1,0 +1,10 @@
+E:\PROGRAMADOR UNIVERSITARIO 2DO AÑO\TALLER 1 2021\practicos\TP6\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+E:\PROGRAMADOR UNIVERSITARIO 2DO AÑO\TALLER 1 2021\practicos\TP6\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+E:\PROGRAMADOR UNIVERSITARIO 2DO AÑO\TALLER 1 2021\practicos\TP6\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+E:\PROGRAMADOR UNIVERSITARIO 2DO AÑO\TALLER 1 2021\practicos\TP6\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+E:\PROGRAMADOR UNIVERSITARIO 2DO AÑO\TALLER 1 2021\practicos\TP6\Calculadora\Calculadora\obj\Debug\Calculadora.Calculadora.resources
+E:\PROGRAMADOR UNIVERSITARIO 2DO AÑO\TALLER 1 2021\practicos\TP6\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+E:\PROGRAMADOR UNIVERSITARIO 2DO AÑO\TALLER 1 2021\practicos\TP6\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+E:\PROGRAMADOR UNIVERSITARIO 2DO AÑO\TALLER 1 2021\practicos\TP6\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+E:\PROGRAMADOR UNIVERSITARIO 2DO AÑO\TALLER 1 2021\practicos\TP6\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+E:\PROGRAMADOR UNIVERSITARIO 2DO AÑO\TALLER 1 2021\practicos\TP6\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
